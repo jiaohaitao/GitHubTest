@@ -1,1 +1,2 @@
-hi£¬this is a test for github v1.0;
+hi,this is a test for github v1.0;
+hi,this is a test for github v2.0;
